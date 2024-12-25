@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Расчёт параметров окржуности</string>
+    <string name="enter_radius">Введите радиус</string>
+    <string name="server_url">http://10.0.2.2:4987/circle/calculate</string>
+    <string name="error_message">Ошибка: %1$s</string>
+    <string name="server_error">Ошибка сервера. Код: %1$d</string>
+    <string name="exception_message">Ошибка: %1$s</string>
+    <string name="result_title">Результаты расчета</string>
+    <string name="result_message">Диаметр: %1$.2f\nДлина окружности: %2$.2f\nПлощадь: %3$.2f</string>
+    <string name="ok">ОК</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="hint_radius">Введите радиус</string>
+</resources>
